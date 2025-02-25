@@ -1,4 +1,5 @@
-import 'package:chat_app/screens/auth1.dart';
+// import 'package:chat_app/screens/auth.dart';
+import 'package:chat_app/screens/auth_mine.dart';
 import 'package:chat_app/screens/chat.dart';
 import 'package:chat_app/screens/splash.dart';
 import 'package:firebase_auth/firebase_auth.dart';
